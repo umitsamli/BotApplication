@@ -1,0 +1,5 @@
+E:\WorkSpace\Desktop\SAMLibrary\bin\Debug\SAMLibrary.dll
+E:\WorkSpace\Desktop\SAMLibrary\bin\Debug\SAMLibrary.pdb
+E:\WorkSpace\Desktop\SAMLibrary\obj\Debug\SAMLibrary.dll
+E:\WorkSpace\Desktop\SAMLibrary\obj\Debug\SAMLibrary.pdb
+E:\WorkSpace\Desktop\SAMLibrary\obj\Debug\SAMLibrary.csprojResolveAssemblyReference.cache
